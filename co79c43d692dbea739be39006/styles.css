@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 400px;
+}
+
+.wrap {
+    display: flex;  
+    justify-content: space-around;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: left;
+    padding: 20px;
+    margin: 0 auto;
+    gap: 20px;
+}
+
+.breadcrumbs {
+    color: #565959;
+}
+
+.author {
+    color: #007185;
+}
